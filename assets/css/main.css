@@ -1540,6 +1540,15 @@
 
 		/* Me */
 
+		.flex {
+			/*display:flex;
+			justify-content:center;
+			align-items:center;*/
+			width:200px;
+			height:200px;
+			border: solid 2px black;
+		}
+
 			#me .pic {
 				width: 100%;
 			}
